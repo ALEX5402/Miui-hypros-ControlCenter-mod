@@ -16,6 +16,8 @@ The **HyperOS Modded Control Center Mod** is a Magisk module designed to enhance
 3. **Reboot Your Device**: Restart your device to apply the changes.
 4. **Second Reboot**: If you encounter issues opening the panel, perform another reboot.
 
+# [Download Miui hypros SecurityCenter mod](https://github.com/alex5402/Miui-hypros-ControlCenter-mod/releases
+
 ### Important Note
 
 - **Signature Verification**: For MIUI 14 users based on Android 13 and HyperOS 1.0 , disable signature verification for the module to work correctly.
