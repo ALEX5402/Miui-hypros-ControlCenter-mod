@@ -17,7 +17,7 @@ The **HyperOS Modded Control Center Mod** is a Magisk module designed to enhance
 3. **Reboot Your Device**: Restart your device to apply the changes.
 4. **Second Reboot**: If you encounter issues opening the panel, perform another reboot.
 5. if magisk module does't work then do this
-6. install [lesposed mod](https://github.com/mywalkb/LSPosed_mod/releases) 
+6. install [lsposed mod](https://github.com/mywalkb/LSPosed_mod/releases) 
 7. install [corepatch](https://github.com/LSPosed/CorePatch)
 8. enable "Disable digest verify"
 9. enable "Disable Compare signatures"
