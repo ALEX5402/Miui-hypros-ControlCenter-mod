@@ -1,4 +1,5 @@
 # MIUI/HyperOS Control Center Mod
+[![Preview](https://github.com/user-attachments/assets/0917bbe2-bb56-480a-b4f3-fffbd2d1fbf4)
 
 The **HyperOS Modded Control Center Mod** is a Magisk module designed to enhance Xiaomi devices running HyperOS or MIUI 13-14 based ROMs with Android 12 or higher. This mod transforms the Control Center to provide an iOS-like experience, complete with customizable features and an improved user interface.
 
