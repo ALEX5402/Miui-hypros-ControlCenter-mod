@@ -24,6 +24,9 @@ The **HyperOS Modded Control Center Mod** is a Magisk module designed to enhance
 - **Signature Verification**: For MIUI 14 users based on Android 13 and HyperOS 1.0 , disable signature verification for the module to work correctly.
 - Hypros 2.0 not tested
 
+# Credits
+- [Rage Os Owner](t.me/deepu_saini_09)
+
 # Control Center Image
 ![photo_2024-11-28_12-11-34](https://github.com/user-attachments/assets/1cec44b4-f752-42d6-969e-f88d7416bfa3)
 ![photo_2024-11-28_12-11-31](https://github.com/user-attachments/assets/68840215-2ef5-492d-978f-01ae754e4363)
