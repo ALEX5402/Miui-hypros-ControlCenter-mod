@@ -1,0 +1,8 @@
+id=spluginmod
+name=MIUI/HyperOs Control Center Mod
+version=1.0
+versionCode=3
+author=@ALEX5402
+description=MIUI/HyperOs Modded Control Center: iOS-like experience with customization, enhancements! 🎛️📱✨
+support="https://t.me/alex5402"
+updateJson=https://raw.githubusercontent.com/ALEX5402/Miui-hypros-ControlCenter-mod/refs/heads/main/update/miui-update.json
